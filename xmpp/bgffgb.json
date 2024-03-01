@@ -1,0 +1,14 @@
+{
+    "Config": {
+        "Username": "xXxXxXxXxXx",
+        "Password": "unused",
+        "AuthType": "unused",
+        "Headless": false
+    },
+    "Versions": [
+        {
+            "Name": "",
+            "Path": ""
+        }
+    ]
+}
